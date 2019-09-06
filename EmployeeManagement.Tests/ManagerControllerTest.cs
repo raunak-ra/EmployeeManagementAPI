@@ -6,7 +6,7 @@ using Xunit;
 
 namespace EmployeeManagement.Tests
 {
-    public class ManagerTest
+    public class ManagerControllerTest
     {
         [Fact]
         public void Get_Should_Return_All_Manager_Count()

@@ -35,7 +35,7 @@ namespace EmployeeManagementAPI.Controllers
 
 
         [HttpGet("manager/{id}")]
-        public IEnumerable<Employee> GetEmployeeByManagerId(int id)
+        public List<Employee> GetEmployeeByManagerId(int id)
         {
             var tempList = new List<Employee>();
             var employeeList = EmployeeDB.employees;
