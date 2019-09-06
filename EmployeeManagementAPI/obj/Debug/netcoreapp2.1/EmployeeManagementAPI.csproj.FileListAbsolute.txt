@@ -1,0 +1,14 @@
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\bin\Debug\netcoreapp2.1\EmployeeManagementAPI.deps.json
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\bin\Debug\netcoreapp2.1\EmployeeManagementAPI.runtimeconfig.json
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\bin\Debug\netcoreapp2.1\EmployeeManagementAPI.runtimeconfig.dev.json
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\bin\Debug\netcoreapp2.1\EmployeeManagementAPI.dll
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\obj\Debug\netcoreapp2.1\EmployeeManagementAPI.csprojAssemblyReference.cache
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\obj\Debug\netcoreapp2.1\EmployeeManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\obj\Debug\netcoreapp2.1\EmployeeManagementAPI.RazorAssemblyInfo.cache
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\obj\Debug\netcoreapp2.1\EmployeeManagementAPI.RazorAssemblyInfo.cs
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\obj\Debug\netcoreapp2.1\EmployeeManagementAPI.AssemblyInfoInputs.cache
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\obj\Debug\netcoreapp2.1\EmployeeManagementAPI.AssemblyInfo.cs
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\obj\Debug\netcoreapp2.1\EmployeeManagementAPI.RazorTargetAssemblyInfo.cache
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\bin\Debug\netcoreapp2.1\EmployeeManagementAPI.pdb
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\obj\Debug\netcoreapp2.1\EmployeeManagementAPI.dll
+C:\Users\rsingh\source\repos\EmployeeManagementAPI\EmployeeManagementAPI\obj\Debug\netcoreapp2.1\EmployeeManagementAPI.pdb
