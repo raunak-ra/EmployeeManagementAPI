@@ -13,7 +13,7 @@ namespace EmployeeManagementAPI.Controllers
     public class ManagerController : ControllerBase
     {
         [HttpGet]
-        public IEnumerable<Manager> GetAllManagers()
+        public List<Manager> GetAllManagers()
         {
             return ManagerDB.managers;
         }

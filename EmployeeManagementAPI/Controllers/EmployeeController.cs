@@ -12,7 +12,7 @@ namespace EmployeeManagementAPI.Controllers
     public class EmployeeController : Controller
     {
         [HttpGet]
-        public IEnumerable<Employee> GetAllEmployee()
+        public List<Employee> GetAllEmployee()
         {
             return EmployeeDB.employees;
         }

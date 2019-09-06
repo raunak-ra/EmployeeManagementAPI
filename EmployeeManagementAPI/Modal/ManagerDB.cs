@@ -10,8 +10,8 @@ namespace EmployeeManagementAPI.Controllers
     {
         public static List<Manager> managers = new List<Manager>()
         {
-            new Manager() { id=1, name = "MA", age = 20, salary = 200000, },
-            new Manager() { id=2, name = "MB", age = 21, salary = 300000, }
+            new Manager() { id=1, name = "MA", age = 20, salary = 200000 },
+            new Manager() { id=2, name = "MB", age = 21, salary = 300000 }
       
         };
     }
